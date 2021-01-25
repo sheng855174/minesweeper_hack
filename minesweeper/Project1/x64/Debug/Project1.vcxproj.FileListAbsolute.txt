@@ -1,0 +1,2 @@
+C:\Users\Sheng\Desktop\minesweeper\minesweeper\Project1\x64\Debug\Project1.MyForm.resources
+C:\Users\Sheng\Desktop\minesweeper\minesweeper\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache

@@ -1,0 +1,7 @@
+﻿  DLLmain.cpp
+  MyForm.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  正在產生程式碼...
+C:\Users\Sheng\Desktop\minesweeper\minesweeper\Project1\DLLmain.cpp : warning C4747: 呼叫受控 '_DllMain@12': 受控碼不可在載入器鎖定下執行，包括 DLL 進入點和從 DLL 進入點到達的呼叫
+  DLLmain.obj : 發現 MSIL 模組。MSIL 的累加連結已停用。正在執行完整連結
+  Project1.vcxproj -> C:\Users\Sheng\Desktop\minesweeper\minesweeper\Debug\Project1.dll
